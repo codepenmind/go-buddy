@@ -4,403 +4,404 @@
       "Code": "AC",
       "Name": "Acton GO",
       "Line": "Kitchener",
-      "time": []
+      "Time": []
     },
     {
       "Code": "AG",
       "Name": "Agincourt GO",
       "Line": "Stouffville",
-      "time": []
+      "Time": []
     },
     {
       "Code": "AJ",
       "Name": "Ajax GO",
       "Line": "LakeshoreEast",
-      "time": []
+      "Time": []
     },
     {
       "Code": "AL",
       "Name": "Aldershot GO",
       "Line": "LakeshoreWest",
-      "time": []
+      "Time": []
     },
     {
       "Code": "AD",
       "Name": "Allandale Waterfront GO",
       "Line": "Barrie",
-      "time": []
+      "Time": []
     },
     {
       "Code": "AP",
       "Name": "Appleby GO",
       "Line": "LakeshoreWest",
-      "time": []
+      "Time": []
     },
     {
       "Code": "AU",
       "Name": "Aurora GO",
       "Line": "Barrie",
-      "time": []
+      "Time": []
     },
     {
       "Code": "BA",
       "Name": "Barrie South GO",
       "Line": "Barrie",
-      "time": []
+      "Time": []
     },
     {
       "Code": "BL",
       "Name": "Bloor GO",
       "Line": "Kitchener",
-      "time": []
+      "Time": []
     },
     {
       "Code": "BD",
       "Name": "Bradford GO",
       "Line": "Barrie",
-      "time": []
+      "Time": []
     },
     {
       "Code": "BE",
       "Name": "Bramalea GO",
       "Line": "Kitchener",
-      "time": []
+      "Time": []
     },
     {
       "Code": "BR",
       "Name": "Brampton GO",
       "Line": "Kitchener",
-      "time": []
+      "Time": []
     },
     {
       "Code": "BO",
       "Name": "Bronte GO",
       "Line": "LakeshoreWest",
-      "time": []
+      "Time": []
     },
     {
       "Code": "BU",
       "Name": "Burlington GO",
       "Line": "LakeshoreWest",
-      "time": []
+      "Time": []
     },
     {
       "Code": "CE",
       "Name": "Centennial GO",
       "Line": "Stouffville",
-      "time": []
+      "Time": []
     },
     {
       "Code": "CL",
       "Name": "Clarkson GO",
       "Line": "LakeshoreWest",
-      "time": []
+      "Time": []
     },
     {
       "Code": "CO",
       "Name": "Cooksville GO",
       "Line": "Milton",
-      "time": []
+      "Time": []
     },
     {
       "Code": "DA",
       "Name": "Danforth GO",
       "Line": "LakeshoreEast",
-      "time": []
+      "Time": []
     },
     {
       "Code": "DI",
       "Name": "Dixie GO",
       "Line": "Milton",
-      "time": []
+      "Time": []
     },
     {
       "Code": "DW",
       "Name": "Downsview Park GO",
       "Line": "Barrie",
-      "time": []
+      "Time": []
     },
     {
       "Code": "EA",
       "Name": "East Gwillimbury GO",
       "Line": "Barrie",
-      "time": []
+      "Time": []
     },
     {
       "Code": "EG",
       "Name": "Eglinton GO",
       "Line": "LakeshoreEast",
-      "time": []
+      "Time": []
     },
     {
       "Code": "ER",
       "Name": "Erindale GO",
       "Line": "Milton",
-      "time": []
+      "Time": []
     },
     {
       "Code": "ET",
       "Name": "Etobicoke North GO",
       "Line": "Kitchener",
-      "time": []
+      "Time": []
     },
     {
       "Code": "EX",
       "Name": "Exhibition GO",
       "Line": "LakeshoreWest",
-      "time": []
+      "Time": []
     },
     {
       "Code": "GE",
       "Name": "Georgetown GO",
       "Line": "Kitchener",
-      "time": []
+      "Time": []
     },
     {
       "Code": "GO",
       "Name": "Gormley GO",
       "Line": "RichmondHill",
-      "time": []
+      "Time": []
     },
     {
       "Code": "GL",
       "Name": "Guelph Central GO",
       "Line": "Kitchener",
-      "time": []
+      "Time": []
     },
     {
       "Code": "GU",
       "Name": "Guildwood GO",
       "Line": "LakeshoreEast",
-      "time": []
+      "Time": []
     },
     {
       "Code": "HA",
       "Name": "Hamilton GO Centre",
       "Line": "LakeshoreWest",
-      "time": []
+      "Time": []
     },
     {
       "Code": "KE",
       "Name": "Kennedy GO",
       "Line": "Stouffville",
-      "time": []
+      "Time": []
     },
     {
       "Code": "KC",
       "Name": "King City GO",
       "Line": "Barrie",
-      "time": []
+      "Time": []
     },
     {
       "Code": "KP",
       "Name": "Kipling GO",
       "Line": "Milton",
-      "time": []
+      "Time": []
     },
     {
       "Code": "KI",
       "Name": "Kitchener GO",
       "Line": "Kitchener",
-      "time": []
+      "Time": []
     },
     {
       "Code": "LA",
       "Name": "Langstaff GO",
       "Line": "RichmondHill",
-      "time": []
+      "Time": []
     },
     {
       "Code": "LI",
       "Name": "Lincolnville GO",
       "Line": "Stouffville",
-      "time": []
+      "Time": []
     },
     {
       "Code": "LS",
       "Name": "Lisgar GO",
       "Line": "Milton",
-      "time": []
+      "Time": []
     },
     {
       "Code": "LO",
       "Name": "Long Branch GO",
       "Line": "LakeshoreWest",
-      "time": []
+      "Time": []
     },
     {
       "Code": "MA",
       "Name": "Malton GO",
       "Line": "Kitchener",
-      "time": []
+      "Time": []
     },
     {
       "Code": "MP",
       "Name": "Maple GO",
       "Line": "Barrie",
-      "time": []
+      "Time": []
     },
     {
       "Code": "MR",
       "Name": "Markham GO",
       "Line": "Stouffville",
-      "time": []
+      "Time": []
     },
     {
       "Code": "ME",
       "Name": "Meadowvale GO",
       "Line": "Milton",
-      "time": []
+      "Time": []
     },
     {
       "Code": "MK",
       "Name": "Milliken GO",
       "Line": "Stouffville",
-      "time": []
+      "Time": []
     },
     {
       "Code": "ML",
       "Name": "Milton GO",
       "Line": "Milton",
-      "time": []
+      "Time": []
     },
     {
       "Code": "MI",
       "Name": "Mimico GO",
       "Line": "LakeshoreWest",
-      "time": []
+      "Time": []
     },
     {
       "Code": "MJ",
       "Name": "Mount Joy GO",
       "Line": "Stouffville",
-      "time": []
+      "Time": []
     },
     {
       "Code": "MO",
       "Name": "Mount Pleasant GO",
       "Line": "Kitchener",
-      "time": []
+      "Time": []
     },
     {
       "Code": "NE",
       "Name": "Newmarket GO",
       "Line": "Barrie",
-      "time": []
+      "Time": []
     },
     {
       "Code": "OA",
       "Name": "Oakville GO",
       "Line": "LakeshoreWest",
-      "time": []
+      "Time": []
     },
     {
       "Code": "OL",
       "Name": "Old Cummer GO",
       "Line": "RichmondHill",
-      "time": []
+      "Time": []
     },
     {
       "Code": "OR",
       "Name": "Oriole GO",
       "Line": "RichmondHill",
-      "time": []
+      "Time": []
     },
     {
       "Code": "OS",
       "Name": "Oshawa GO",
       "Line": "LakeshoreEast",
-      "time": []
+      "Time": []
     },
     {
       "Code": "PIN",
       "Name": "Pickering GO",
       "Line": "LakeshoreEast",
-      "time": []
+      "Time": []
     },
     {
       "Code": "PIS",
       "Name": "Pickering South",
       "Line": "LakeshoreEast",
-      "time": []
+      "Time": []
     },
     {
       "Code": "PO",
       "Name": "Port Credit GO",
       "Line": "LakeshoreWest",
-      "time": []
+      "Time": []
     },
     {
       "Code": "RI",
       "Name": "Richmond Hill GO",
       "Line": "RichmondHill",
-      "time": []
+      "Time": []
     },
     {
       "Code": "RO",
       "Name": "Rouge Hill GO",
       "Line": "LakeshoreEast",
-      "time": []
+      "Time": []
     },
     {
       "Code": "RU",
       "Name": "Rutherford GO",
       "Line": "Barrie",
-      "time": []
+      "Time": []
     },
     {
       "Code": "SC",
       "Name": "Scarborough GO",
       "Line": "LakeshoreEast",
-      "time": []
+      "Time": []
     },
     {
       "Code": "ST",
       "Name": "Stouffville GO",
       "Line": "Stouffville",
-      "time": []
+      "Time": []
     },
     {
       "Code": "SR",
       "Name": "Streetsville GO",
       "Line": "Milton",
-      "time": []
+      "Time": []
     },
     {
       "Code": "UN",
       "Name": "Union Station",
       "Line": "All",
-      "time": [] 
+      "Time": []
+
     },
     {
       "Code": "UI",
       "Name": "Unionville GO",
       "Line": "Stouffville",
-      "time": []
+      "Time": []
     },
     {
       "Code": "WR",
       "Name": "West Harbour",
       "Line": "LakeshoreWest",
-      "time": []
+      "Time": []
     },
     {
       "Code": "WE",
       "Name": "Weston GO",
       "Line": "Kitchener",
-      "time": []
+      "Time": []
     },
     {
       "Code": "WH",
       "Name": "Whitby GO",
       "Line": "LakeshoreEast",
-      "time": []
+      "Time": []
     },
     {
       "Code": "YO",
       "Name": "York University GO",
       "Line": "Barrie",
-      "time": []
+      "Time": []
     }
   ]
 }
